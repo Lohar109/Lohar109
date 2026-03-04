@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 ```javascript
 class SoftwareEngineer {
   constructor() {
-    this.name = "Lohar109";
+    this.name = "Vaibhav Lohar";
     this.role = "Full Stack Developer";
     this.techStack = ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"];
     this.tools = ["VS Code", "Prompt Engineering", "Gen AI"];
