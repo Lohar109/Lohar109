@@ -4,7 +4,7 @@
 
 *Full Stack Developer | AI Enthusiast | Prompt Engineer*
 
-Welcome to my GitHub profile! Main ek software developer hoon jo seamless aur user-friendly applications banane mein believe rakhta hoon. Main frontend, backend aur modern AI tools ke saath explore karna pasand karta hoon.
+Welcome to my GitHub profile! I am a software developer dedicated to creating seamless and user-friendly applications. I enjoy exploring frontend, backend, and modern AI tools to build impactful products.
 
 ---
 
@@ -26,13 +26,19 @@ Welcome to my GitHub profile! Main ek software developer hoon jo seamless aur us
 
 ---
 
-### 📊 LeetCode Stats
+### 🚀 Projects & Focus
 
-Main daily coding challenges solve karta hoon taaki logic sharp rahe.
+- 🛒 **ShopEase**: A modern full-stack e-commerce application.
+- 🍔 **Local Business Solutions**: Developing WhatsApp-integrated web pages for restaurants and shops.
+- 💻 **Problem Solving**: Actively solving challenges on LeetCode to sharpen my logical thinking.
+
+---
+
+### 📊 LeetCode Stats
 
 <p align="left">
   <a href="https://leetcode.com/u/VaibhavL/">
-    <img src="https://leetcode-stats-github-api.herokuapp.com/?username=VaibhavL&theme=dark" alt="VaibhavL LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/VaibhavL?theme=dark&font=Recursive&ext=activity" alt="VaibhavL LeetCode Stats" />
   </a>
 </p>
 
