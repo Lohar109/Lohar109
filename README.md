@@ -1,4 +1,4 @@
-# Hi there, I'm Lohar109! 👋
+# Hello, I'm Vaibhav Lohar! 👋
 
 🌍 **Based in India** | 💡 **Passionate about building scalable web solutions**
 
