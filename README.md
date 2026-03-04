@@ -1,4 +1,4 @@
-# Hello, I'm Vaibhav Lohar! 👋
+# Hello, I'm Vaibhav Lohar! 👋 
 
 🌍 **India** 🇮🇳 | 💡 **Passionate about building scalable web solutions**
 
