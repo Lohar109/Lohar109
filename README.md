@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 <p align="left">
   <a href="https://leetcode.com/u/VaibhavL/">
-    <img src="https://leetcard.jacoblin.cool/VaibhavL?theme=dark&font=Recursive&ext=activity" alt="VaibhavL LeetCode Stats" />
+    <img src="https://leetcode-stats-github-api.herokuapp.com/?username=VaibhavL&theme=dark" alt="VaibhavL LeetCode Stats" />
   </a>
 </p>
 
