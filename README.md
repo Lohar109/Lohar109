@@ -1,6 +1,6 @@
 # Hello, I'm Vaibhav Lohar! 👋
 
-🌍 **Based in India** | 💡 **Passionate about building scalable web solutions**
+🌍 **India** 🇮🇳 | 💡 **Passionate about building scalable web solutions**
 
 *Full Stack Developer | AI Enthusiast | Prompt Engineer*
 
