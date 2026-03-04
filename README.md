@@ -22,27 +22,20 @@ Welcome to my GitHub profile! Main ek software developer hoon jo seamless aur us
 
 ---
 
-### 🌟 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
-
----
-
 ### 🎨 Fun Fact
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Lohar109"
-        self.role = "Full Stack Developer"
-        self.tech_stack = ["React", "Node.js", "Next.js", "PostgreSQL"]
-        self.interests = ["Gen AI", "Prompt Engineering", "Problem Solving"]
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Lohar109";
+    this.role = "Full Stack Developer";
+    this.techStack = ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"];
+    this.tools = ["VS Code", "Prompt Engineering", "Gen AI"];
+  }
 
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
+  getMission() {
+    return "I don't just solve challenges, I build solutions.";
+  }
+}
 
-me = SoftwareEngineer()
-me.say_hi()
+const me = new SoftwareEngineer();
+console.log(me.getMission());
