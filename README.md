@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 🎨 Fun Fact
+### 🎨 Fun Fact 
 
 ```javascript
 class SoftwareEngineer {
