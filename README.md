@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 ### 🎯 Specializations
 
 **AI & Automation**
+
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge&logo=chatgpt&logoColor=white)
 
 **Web Development**
