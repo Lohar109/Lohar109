@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 🛠 Technologies & Tools
+### Technologies & Tools
 
 **Frontend & Styling**
 <p align="left">
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 🎯 Specializations
+### Specializations
 
 **AI & Automation**
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 🚀 Projects & Focus
+### Projects & Focus
 
 - 🛒 **ShopEase**: A modern full-stack e-commerce application.
 - 🍔 **Local Business Solutions**: Developing WhatsApp-integrated web pages for restaurants and shops.
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 📊 LeetCode Stats
+### LeetCode Stats
 
 <p align="left">
   <a href="https://leetcode.com/u/VaibhavL/">
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ---
 
-### 🎨 Fun Fact 
+### Fun Fact 
 
 ```javascript
 class SoftwareEngineer {
