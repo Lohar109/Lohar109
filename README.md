@@ -39,6 +39,10 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge&logo=chatgpt&logoColor=white)
 
+**Web Development**
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### 🚀 Projects & Focus
