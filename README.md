@@ -47,9 +47,7 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 ### Projects & Focus
 
-- 🛒 **ShopEase**: A modern full-stack e-commerce application.
-- 🍔 **Local Business Solutions**: Developing WhatsApp-integrated web pages for restaurants and shops.
-- 💻 **Problem Solving**: Actively solving challenges on LeetCode to sharpen my logical thinking.
+**[Developer Workflow](https://developer-workflow.onrender.com)**: A lightweight, browser-based productivity suite designed for developers. Track tasks, manage resources, and visualize progress—all powered by local storage for a privacy-first experience.
 
 ---
 
