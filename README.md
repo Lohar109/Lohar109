@@ -4,7 +4,7 @@
 
 *Full Stack Developer | AI Enthusiast | Prompt Engineer*
 
-Welcome to my GitHub profile! I am a software developer dedicated to creating seamless and user-friendly applications. I enjoy exploring frontend, backend, and modern AI tools to build impactful products.
+Welcome to my GitHub profile! I am a software developer dedicated to creating seamless and user-friendly applications. I enjoy exploring frontend, backend, and modern AI tools to build impactful products. 
 
 ---
 
