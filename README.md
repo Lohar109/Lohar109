@@ -49,6 +49,8 @@ Welcome to my GitHub profile! I am a software developer dedicated to creating se
 
 **[Developer Workflow](https://developer-workflow.onrender.com)**: A lightweight, browser-based productivity suite designed for developers. Track tasks, manage resources, and visualize progress—all powered by local storage for a privacy-first experience.
 
+**[ShopEase](https://shopease-ecom-landing.onrender.com)**: A premium, minimalist e-commerce landing page built with semantic HTML5 and modern CSS3. Features a responsive product grid, sleek category navigation, and professional UI/UX standards.
+
 ---
 
 ### LeetCode Stats
