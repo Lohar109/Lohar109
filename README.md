@@ -1,10 +1,10 @@
 # Hello, I'm Vaibhav Lohar 👋
 
-**India** 🇮🇳 | **Passionate about building scalable web solutions** 
+***India*** 🇮🇳 | ***Passionate about building scalable web solutions***
 
-*Full Stack Developer | AI Enthusiast | Prompt Engineer*
+**Full Stack Developer | AI Enthusiast | Prompt Engineer**
 
-Welcome to my GitHub profile! I am a software developer dedicated to creating seamless and user-friendly applications. I enjoy exploring frontend, backend, and modern AI tools to build impactful products.
+**Welcome to my GitHub profile! I am a software developer dedicated to creating seamless and user-friendly applications. I enjoy exploring frontend, backend, and modern AI tools to build impactful products.**
 
 ---
 
